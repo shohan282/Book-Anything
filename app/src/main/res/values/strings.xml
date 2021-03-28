@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Book Anything</string>
+    <string name="action_log_out">Log out</string>
+
+    <string-array name="hospital">
+        <item>Select Hospital</item>
+        <item>Square Hospital,Panthopoth</item>
+        <item>Apollo Hospital,Dhaka</item>
+        <item>Labaid Hospital,Kolabagan</item>
+        <item>Ibn Sina Hospital,Dhanmondi</item>
+        <item>hospital 5</item>
+        <item>hospital 6</item>
+        <item>hospital 7</item>
+        <item>hospital 8</item>
+        <item>hospital 9</item>
+        <item>hospital 10</item>
+        <item>hospital 11</item>
+        <item>hospital 12</item>
+        <item>hospital 13</item>
+        <item>hospital 14</item>
+        <item>hospital 15</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Select Location</item>
+        <item>Dhaka</item>
+        <item>Gazipur</item>
+        <item>Sylhet</item>
+        <item>Khulna</item>
+        <item>Jessore</item>
+        <item>Chittagong</item>
+    </string-array>
+
+    <string-array name="speciality">
+        <item>Speciality</item>
+        <item>Cardiac</item>
+        <item>CDC</item>
+        <item>Clinical Haematology</item>
+        <item>Clinical Psychology</item>
+        <item>Dental</item>
+        <item>ENT</item>
+    </string-array>
+
+    <string-array name="mov">
+        <item>Select Show</item>
+        <item>Alatchakra</item>
+        <item>Godzilla vs. Kong</item>
+        <item>Raya and the Last Dragon</item>
+        <item>Venom</item>
+        <item>Priyo Komla</item>
+        <item>The Conjuring</item>
+    </string-array>
+
+</resources>
